@@ -2,6 +2,8 @@
 
 To display an legal notice and the privacy policy in the menu bar, handlers can be added in the JupyterHub configuration.
 
+![Screenshot](/screenshot.png)
+
 
 ## Install
 
